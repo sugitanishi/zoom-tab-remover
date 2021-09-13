@@ -1,0 +1,13 @@
+{
+    "manifest_version":2,
+    "name":"ZOOM Tab Remover",
+    "version":"1.0",
+    "permissions":["tabs"],
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "browser_action":{},
+    "background": { "scripts": ["jquery-3.4.0.min.js", "remove_zoom.js"] }
+}
