@@ -3,6 +3,8 @@ zoom会議への共有リンクアクセス時、ブラウザに出現するタ�
 
 たまりがちなあのタブを一思いにキレイにしましょう
 
+![zoom_tab_remover](https://user-images.githubusercontent.com/51981585/133122262-15f856b2-a52c-4eb1-ba29-7491e29dbcb2.gif)
+
 ## 導入方法
 
 - 本ページ上部、緑色の「Code ▼」ボタンをクリックし、Download ZIPを選択
@@ -28,5 +30,3 @@ zoom会議への共有リンクアクセス時、ブラウザに出現するタ�
 ## 使用方法
 
 - 拡張機能アイコンをクリックする
-
-  ![zoom_tab_remover](https://user-images.githubusercontent.com/51981585/133122262-15f856b2-a52c-4eb1-ba29-7491e29dbcb2.gif)
